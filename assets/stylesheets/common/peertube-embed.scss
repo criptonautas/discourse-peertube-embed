@@ -306,13 +306,7 @@
   font-size: var(--font-down-1);
 }
 
-// /videos title and discovery-style bar (like Discourse's /latest)
-.peertube-videos-page__title {
-  margin: 0 0 0.75em;
-  text-transform: uppercase;
-  letter-spacing: 0.02em;
-}
-
+// /videos discovery-style bar (like Discourse's /latest)
 .peertube-videos-bar {
   display: flex;
   flex-wrap: wrap;

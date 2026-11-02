@@ -43,6 +43,7 @@ en:
         upload_failed: "The upload failed."
       page:
         title: "Videos"
+        description: "PeerTube videos and live streams"
         sidebar_title: "PeerTube videos and live streams"
         all_categories: "All"
         load_more: "Load more"

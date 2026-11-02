@@ -43,6 +43,7 @@ es:
         upload_failed: "La subida falló."
       page:
         title: "Videos"
+        description: "Videos y transmisiones en vivo de PeerTube"
         sidebar_title: "Videos y transmisiones en vivo de PeerTube"
         all_categories: "todos"
         load_more: "cargar más"
