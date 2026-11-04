@@ -2,6 +2,8 @@
 
 ## Unreleased
 
+- `/videos`: the category dropdown starts on "Channels" ("canales") instead of "All".
+
 - Security: the upload channel picker leaves out channels mapped only to categories the user cannot read.
 - New task `peertube:unlist_locked`: lists videos in locked categories that are still public on PeerTube; `peertube:unlist_locked[apply]` makes them unlisted.
 - Security: topics locked by discourse-category-lockdown no longer show their video in topic lists to readers outside the allowed groups, and uploads to locked categories are unlisted on PeerTube.

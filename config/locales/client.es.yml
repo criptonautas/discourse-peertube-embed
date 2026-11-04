@@ -45,7 +45,7 @@ es:
         title: "Videos"
         description: "Videos y transmisiones en vivo de PeerTube"
         sidebar_title: "Videos y transmisiones en vivo de PeerTube"
-        all_categories: "todos"
+        all_categories: "canales"
         load_more: "cargar más"
         sort_latest: "lo último"
         sort_trending: "tendencia"

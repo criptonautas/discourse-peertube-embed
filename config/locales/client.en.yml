@@ -45,7 +45,7 @@ en:
         title: "Videos"
         description: "PeerTube videos and live streams"
         sidebar_title: "PeerTube videos and live streams"
-        all_categories: "All"
+        all_categories: "Channels"
         load_more: "Load more"
         sort_latest: "Latest"
         sort_trending: "Trending"
