@@ -48,7 +48,7 @@ Soporte nativo de PeerTube para Discourse: los videos, transmisiones en vivo y l
 Seguí [Install plugins in Discourse](https://meta.discourse.org/t/install-plugins-in-discourse/19157) usando:
 
 ```
-https://github.com/somos-criptonautas/discourse-peertube-embed.git
+https://github.com/criptonautas/discourse-peertube-embed.git
 ```
 
 Requiere Discourse 2026.9 o posterior (usa las rutas actuales de módulos del frontend). El CI corre contra Discourse `main`; las versiones anteriores no se prueban.
@@ -128,7 +128,7 @@ Los specs corren dentro de un checkout de Discourse: `LOAD_PLUGINS=1 bin/rspec p
 
 ## Soporte
 
-Abrí un issue en <https://github.com/somos-criptonautas/discourse-peertube-embed/issues>.
+Abrí un issue en <https://github.com/criptonautas/discourse-peertube-embed/issues>.
 
 ## Licencia
 

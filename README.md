@@ -48,7 +48,7 @@ Native PeerTube support for Discourse: videos, live streams and playlists from y
 Follow [Install plugins in Discourse](https://meta.discourse.org/t/install-plugins-in-discourse/19157) using:
 
 ```
-https://github.com/somos-criptonautas/discourse-peertube-embed.git
+https://github.com/criptonautas/discourse-peertube-embed.git
 ```
 
 Requires Discourse 2026.9 or newer (it uses the current frontend module paths). CI runs against Discourse `main`; older release lines are not tested.
@@ -128,7 +128,7 @@ Specs run in a Discourse checkout: `LOAD_PLUGINS=1 bin/rspec plugins/discourse-p
 
 ## Support
 
-Open an issue at <https://github.com/somos-criptonautas/discourse-peertube-embed/issues>.
+Open an issue at <https://github.com/criptonautas/discourse-peertube-embed/issues>.
 
 ## License
 

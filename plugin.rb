@@ -4,7 +4,7 @@
 # about: Embeds PeerTube videos and live streams: click-to-play player, live badges, a /videos gallery and event livestream support
 # version: 0.1.0
 # authors: Criptonautas
-# url: https://github.com/somos-criptonautas/discourse-peertube-embed
+# url: https://github.com/criptonautas/discourse-peertube-embed
 # required_version: 2026.9.0
 
 enabled_site_setting :peertube_embed_enabled
